@@ -1,0 +1,8 @@
+{
+  "listenPort": ":8080",
+  "template": "./template",
+  "asset": "./asset",
+  "rootPrefix": "",
+  "logsDir": "./logs",
+  "rtspFormat": "rtsp://admin:admin123@%s"
+}
